@@ -2,7 +2,7 @@
 
 1988-born dude, anime fan, and hands-on tinkerer building practical Linux, Windows, wireless, and security tools.
 
-My projects cover packet inspection, wireless inventory, adapter deployment, connection management, and Raspberry Pi automation. I like turning fragile setup notes into repeatable installers, diagnostics, and small utilities that are easier to trust and maintain.
+My projects cover packet inspection, wireless inventory, adapter deployment, and connection management. I like turning fragile setup notes into repeatable installers, diagnostics, and small utilities that are easier to trust and maintain.
 
 ## Featured projects
 
@@ -36,10 +36,5 @@ Separate Windows and Debian/Linux host connection managers for USB monitoring, I
 | AWUS1900 Surveyor | Kali Linux | [ZIP / tar.gz and checksums](https://github.com/KampaiDiscount/awus1900-surveyor/releases/latest) |
 | Pineapple Connection Manager | Windows 10/11 | [Windows ZIP and checksum](https://github.com/KampaiDiscount/Pineapple-MarkVII-Connection-Manager/releases/tag/v3.2) |
 | Pineapple Connection Manager | Debian/Linux | [Debian package / tar.gz and checksums](https://github.com/KampaiDiscount/Pineapple-MarkVII-Connection-Manager/releases/tag/linux-v0.1.0) |
-| Raspberry Pi SIM800C tools | Raspberry Pi OS / Linux | [Alpha source archives and checksums](https://github.com/KampaiDiscount/Tools/releases/tag/v0.1.0-alpha.1) |
-
-## More tinkering
-
-[Raspberry Pi SIM800C deployment](https://github.com/KampaiDiscount/Tools) — cellular PPP and ngrok SSH access in an isolated network namespace, with automatic health checks and recovery. **Source-only alpha** under the MIT license; hardware and carrier validation remain deployment-specific.
 
 > Security and wireless tooling should be used only on systems and networks you own or are explicitly authorized to assess.
